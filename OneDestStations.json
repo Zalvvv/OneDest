@@ -1,4 +1,9 @@
 {
+    "name": "Rails",
+    "info": {
+        "version": "3.0.0-beta3",
+        "last_update": 1736887531
+    },
     "features": [
         {
             "name": "Cascadia",
@@ -206,10 +211,5 @@
     ],
     "enabled_presentation": true,
     "id": "https://raw.githubusercontent.com/OneDest/data/master/civmap.json",
-    "info": {
-        "last_update": 1726061370,
-        "version": "3.0.0-beta3"
-    },
-    "name": "Rails",
     "source": "https://raw.githubusercontent.com/OneDest/data/master/civmap.json"
 }
