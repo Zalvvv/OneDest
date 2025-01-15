@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1736934313
+        "last_update": 1736935017
     },
     "features": [
         {
@@ -198,10 +198,22 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/shockton.png"
         },
         {
-            "name": "uni",
+            "name": "Warmia",
+            "x": -1405,
+            "z": -2351,
+            "dest": "/dest ! +,- moloka volterra warmia",
+            "level": 4,
+            "zoom": 3,
+            "id": "civmap:onedest/station/warmia",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/warmia.png"
+        },
+        {
+            "name": "Uni",
             "x": -1670,
             "z": -1231,
-            "dest": "/dest ! +,- moloka volterra shockton vmata+ uni",
+            "dest": "/dest ! +,- moloka volterra warmia vmata+ uni",
             "level": 6,
             "zoom": 6,
             "id": "civmap:onedest/station/uni",
@@ -210,10 +222,10 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/uni.png"
         },
         {
-            "name": "brewery",
+            "name": "Brewery",
             "x": -1551,
             "z": -1271,
-            "dest": "/dest ! +,- moloka volterra shockton vmata+ brewery",
+            "dest": "/dest ! +,- moloka volterra warmia vmata+ brewery",
             "level": 6,
             "zoom": 6,
             "id": "civmap:onedest/station/brewery",
@@ -222,10 +234,10 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/brewery.png"
         },
         {
-            "name": "guild",
+            "name": "Guild",
             "x": -1350,
             "z": -1307,
-            "dest": "/dest ! +,- moloka volterra shockton vmata+ guild",
+            "dest": "/dest ! +,- moloka volterra warmia vmata+ guild",
             "level": 6,
             "zoom": 6,
             "id": "civmap:onedest/station/guild",
@@ -234,16 +246,28 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/guild.png"
         },
         {
-            "name": "vec",
+            "name": "Vec",
             "x": -1350,
             "z": -960,
-            "dest": "/dest ! +,- moloka volterra shockton vmata- vec",
+            "dest": "/dest ! +,- moloka volterra warmia vmata- vec",
             "level": 6,
             "zoom": 6,
             "id": "civmap:onedest/station/vec",
             "color": "#534582",
             "y": 0,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/vec.png"
+        },
+        {
+            "name": "Rosslyn",
+            "x": -1157,
+            "z": -1212,
+            "dest": "/dest ! +,- moloka volterra warmia vmata- rosslyn",
+            "level": 6,
+            "zoom": 6,
+            "id": "civmap:onedest/station/rosslyn",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/rosslyn.png"
         },
         {
             "name": "Mehri",
