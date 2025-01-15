@@ -18,12 +18,14 @@
         Stonegate (984,-62,-4390)
         Volterra
             Shockton (-1646,0,-1159)
+            Warmia (-1405, 0, -2351)
                 vmata+
-                    uni (-1670,0,-1231)
-                    brewery (-1551,0,-1271)
-                    guild (-1350,0,-1307)
+                    Uni (-1670,0,-1231)
+                    Brewery (-1551,0,-1271)
+                    Guild (-1350,0,-1307)
                 vmata-
-                    vec (-1350,0,-960)
+                    Vec (-1350,0,-960)
+                    Rosslyn (-1157,0,-1212)
     Lyrean <#0eaf9b>
         Mehri (2645,59,-2205)
             Develhof (3044,35,-2621)
