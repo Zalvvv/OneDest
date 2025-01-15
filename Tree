@@ -17,13 +17,13 @@
         Escobar (-66,-63,-1986)
         Stonegate (984,-62,-4390)
         Volterra
-            vmata+
-                    Uni (-1670,0,-1231)
-                    Brewery (-1551,0,-1271)
-                    Guild (-1350,0,-1307)
-            vmata-
-                    Vec (-1350,0,-960)
-                    Rosslyn (-1157,0,-1212)
+            vmata+ (100000,100000,100000) #Ignore please
+                Uni (-1670,0,-1231)
+                Brewery (-1551,0,-1271)
+                Guild (-1350,0,-1307)
+            vmata- (100000,100000,100000) #Ignore please
+                Vec (-1350,0,-960)
+                Rosslyn (-1157,0,-1212)
             Shockton (-1646,0,-1159)
             Warmia (-1405, 0, -2351)
     Lyrean <#0eaf9b>
