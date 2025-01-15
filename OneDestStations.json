@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1736955808
+        "last_update": 1736956810
     },
     "features": [
         {
@@ -186,6 +186,92 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/stonegate.png"
         },
         {
+            "name": "vmata+",
+            "x": 100000,
+            "z": 100000,
+            "dest": "/dest ! +,- moloka volterra vmata+",
+            "level": 4,
+            "zoom": 3,
+            "id": "civmap:onedest/station/vmata+",
+            "color": "#534582",
+            "y": 100000,
+            "note": "Ignore please",
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/vmata+.png"
+        },
+        {
+            "name": "Uni",
+            "x": -1670,
+            "z": -1231,
+            "dest": "/dest ! +,- moloka volterra vmata+ uni",
+            "level": 5,
+            "zoom": 5,
+            "id": "civmap:onedest/station/uni",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/uni.png"
+        },
+        {
+            "name": "Brewery",
+            "x": -1551,
+            "z": -1271,
+            "dest": "/dest ! +,- moloka volterra vmata+ brewery",
+            "level": 5,
+            "zoom": 5,
+            "id": "civmap:onedest/station/brewery",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/brewery.png"
+        },
+        {
+            "name": "Guild",
+            "x": -1350,
+            "z": -1307,
+            "dest": "/dest ! +,- moloka volterra vmata+ guild",
+            "level": 5,
+            "zoom": 5,
+            "id": "civmap:onedest/station/guild",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/guild.png"
+        },
+        {
+            "name": "vmata-",
+            "x": 100000,
+            "z": 100000,
+            "dest": "/dest ! +,- moloka volterra vmata-",
+            "level": 4,
+            "zoom": 3,
+            "id": "civmap:onedest/station/vmata-",
+            "color": "#534582",
+            "y": 100000,
+            "note": "Ignore please",
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/vmata-.png"
+        },
+        {
+            "name": "Vec",
+            "x": -1350,
+            "z": -960,
+            "dest": "/dest ! +,- moloka volterra vmata- vec",
+            "level": 5,
+            "zoom": 5,
+            "id": "civmap:onedest/station/vec",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/vec.png"
+        },
+        {
+            "name": "Rosslyn",
+            "x": -1157,
+            "z": -1212,
+            "dest": "/dest ! +,- moloka volterra vmata- rosslyn",
+            "level": 5,
+            "zoom": 5,
+            "id": "civmap:onedest/station/rosslyn",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/rosslyn.png"
+        },
+        {
             "name": "Shockton",
             "x": -1646,
             "z": -1159,
@@ -208,66 +294,6 @@
             "color": "#534582",
             "y": 0,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/warmia.png"
-        },
-        {
-            "name": "Uni",
-            "x": -1670,
-            "z": -1231,
-            "dest": "/dest ! +,- moloka volterra vmata+ uni",
-            "level": 5,
-            "zoom": 3,
-            "id": "civmap:onedest/station/uni",
-            "color": "#534582",
-            "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/uni.png"
-        },
-        {
-            "name": "Brewery",
-            "x": -1551,
-            "z": -1271,
-            "dest": "/dest ! +,- moloka volterra vmata+ brewery",
-            "level": 5,
-            "zoom": 3,
-            "id": "civmap:onedest/station/brewery",
-            "color": "#534582",
-            "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/brewery.png"
-        },
-        {
-            "name": "Guild",
-            "x": -1350,
-            "z": -1307,
-            "dest": "/dest ! +,- moloka volterra vmata+ guild",
-            "level": 5,
-            "zoom": 3,
-            "id": "civmap:onedest/station/guild",
-            "color": "#534582",
-            "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/guild.png"
-        },
-        {
-            "name": "Vec",
-            "x": -1350,
-            "z": -960,
-            "dest": "/dest ! +,- moloka volterra vmata- vec",
-            "level": 5,
-            "zoom": 3,
-            "id": "civmap:onedest/station/vec",
-            "color": "#534582",
-            "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/vec.png"
-        },
-        {
-            "name": "Rosslyn",
-            "x": -1157,
-            "z": -1212,
-            "dest": "/dest ! +,- moloka volterra vmata- rosslyn",
-            "level": 5,
-            "zoom": 3,
-            "id": "civmap:onedest/station/rosslyn",
-            "color": "#534582",
-            "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/rosslyn.png"
         },
         {
             "name": "Mehri",
