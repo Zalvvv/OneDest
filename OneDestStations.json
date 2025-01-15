@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1736933633
+        "last_update": 1736934313
     },
     "features": [
         {
@@ -184,6 +184,66 @@
             "color": "#534582",
             "y": -62,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/stonegate.png"
+        },
+        {
+            "name": "Shockton",
+            "x": -1646,
+            "z": -1159,
+            "dest": "/dest ! +,- moloka volterra shockton",
+            "level": 4,
+            "zoom": 3,
+            "id": "civmap:onedest/station/shockton",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/shockton.png"
+        },
+        {
+            "name": "uni",
+            "x": -1670,
+            "z": -1231,
+            "dest": "/dest ! +,- moloka volterra shockton vmata+ uni",
+            "level": 6,
+            "zoom": 6,
+            "id": "civmap:onedest/station/uni",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/uni.png"
+        },
+        {
+            "name": "brewery",
+            "x": -1551,
+            "z": -1271,
+            "dest": "/dest ! +,- moloka volterra shockton vmata+ brewery",
+            "level": 6,
+            "zoom": 6,
+            "id": "civmap:onedest/station/brewery",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/brewery.png"
+        },
+        {
+            "name": "guild",
+            "x": -1350,
+            "z": -1307,
+            "dest": "/dest ! +,- moloka volterra shockton vmata+ guild",
+            "level": 6,
+            "zoom": 6,
+            "id": "civmap:onedest/station/guild",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/guild.png"
+        },
+        {
+            "name": "vec",
+            "x": -1350,
+            "z": -960,
+            "dest": "/dest ! +,- moloka volterra shockton vmata- vec",
+            "level": 6,
+            "zoom": 6,
+            "id": "civmap:onedest/station/vec",
+            "color": "#534582",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/vec.png"
         },
         {
             "name": "Mehri",
@@ -1168,52 +1228,52 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/acre.png"
         },
         {
-            "name": "Tortugan(-7065,0,47)",
+            "name": "Tortugan",
             "x": -7065,
             "z": 47,
-            "dest": "/dest ! -,- karydia tortugan(-7065,0,47)",
+            "dest": "/dest ! -,- karydia tortugan",
             "level": 3,
             "zoom": 3,
-            "id": "civmap:onedest/station/tortugan(-7065,0,47)",
+            "id": "civmap:onedest/station/tortugan",
             "color": "#fcd20e",
             "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/tortugan(-7065,0,47).png"
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/tortugan.png"
         },
         {
-            "name": "Arlington(-6878,0,620)",
+            "name": "Arlington",
             "x": -6878,
             "z": 620,
-            "dest": "/dest ! -,- karydia arlington(-6878,0,620)",
+            "dest": "/dest ! -,- karydia arlington",
             "level": 3,
             "zoom": 3,
-            "id": "civmap:onedest/station/arlington(-6878,0,620)",
+            "id": "civmap:onedest/station/arlington",
             "color": "#fcd20e",
             "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/arlington(-6878,0,620).png"
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/arlington.png"
         },
         {
-            "name": "Reggio(-6418,0,1688)",
+            "name": "Reggio",
             "x": -6418,
             "z": 1688,
-            "dest": "/dest ! -,- karydia reggio(-6418,0,1688)",
+            "dest": "/dest ! -,- karydia reggio",
             "level": 3,
             "zoom": 3,
-            "id": "civmap:onedest/station/reggio(-6418,0,1688)",
+            "id": "civmap:onedest/station/reggio",
             "color": "#fcd20e",
             "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/reggio(-6418,0,1688).png"
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/reggio.png"
         },
         {
-            "name": "Carolina(-5861,0,1358)",
+            "name": "Carolina",
             "x": -5861,
             "z": 1358,
-            "dest": "/dest ! -,- karydia carolina(-5861,0,1358)",
+            "dest": "/dest ! -,- karydia carolina",
             "level": 3,
             "zoom": 3,
-            "id": "civmap:onedest/station/carolina(-5861,0,1358)",
+            "id": "civmap:onedest/station/carolina",
             "color": "#fcd20e",
             "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/carolina(-5861,0,1358).png"
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/carolina.png"
         }
     ],
     "presentations": [
