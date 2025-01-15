@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1736932994
+        "last_update": 1736933633
     },
     "features": [
         {
@@ -1130,6 +1130,90 @@
             "color": "#fcd20e",
             "y": 10,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/mercutio.png"
+        },
+        {
+            "name": "Icarus",
+            "x": -9133,
+            "z": -347,
+            "dest": "/dest ! -,- karydia icarus",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/icarus",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/icarus.png"
+        },
+        {
+            "name": "Kaowta",
+            "x": -8176,
+            "z": -120,
+            "dest": "/dest ! -,- karydia kaowta",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/kaowta",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/kaowta.png"
+        },
+        {
+            "name": "Acre",
+            "x": -7887,
+            "z": -50,
+            "dest": "/dest ! -,- karydia acre",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/acre",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/acre.png"
+        },
+        {
+            "name": "Tortugan(-7065,0,47)",
+            "x": -7065,
+            "z": 47,
+            "dest": "/dest ! -,- karydia tortugan(-7065,0,47)",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/tortugan(-7065,0,47)",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/tortugan(-7065,0,47).png"
+        },
+        {
+            "name": "Arlington(-6878,0,620)",
+            "x": -6878,
+            "z": 620,
+            "dest": "/dest ! -,- karydia arlington(-6878,0,620)",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/arlington(-6878,0,620)",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/arlington(-6878,0,620).png"
+        },
+        {
+            "name": "Reggio(-6418,0,1688)",
+            "x": -6418,
+            "z": 1688,
+            "dest": "/dest ! -,- karydia reggio(-6418,0,1688)",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/reggio(-6418,0,1688)",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/reggio(-6418,0,1688).png"
+        },
+        {
+            "name": "Carolina(-5861,0,1358)",
+            "x": -5861,
+            "z": 1358,
+            "dest": "/dest ! -,- karydia carolina(-5861,0,1358)",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/carolina(-5861,0,1358)",
+            "color": "#fcd20e",
+            "y": 0,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/carolina(-5861,0,1358).png"
         }
     ],
     "presentations": [
