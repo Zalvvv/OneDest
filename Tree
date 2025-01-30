@@ -16,16 +16,6 @@
         Detroit (1630,-62,-6086)
         Escobar (-66,-63,-1986)
         Stonegate (984,-62,-4390)
-        Volterra
-            vmata+ (100000,100000,100000) #Ignore please
-                Uni (-1670,0,-1231)
-                Brewery (-1551,0,-1271)
-                Guild (-1350,0,-1307)
-            vmata- (100000,100000,100000) #Ignore please
-                Vec (-1350,0,-960)
-                Rosslyn (-1157,0,-1212)
-            Shockton (-1646,0,-1159)
-            Warmia (-1405, 0, -2351)
     Lyrean <#0eaf9b>
         Mehri (2645,59,-2205)
             Develhof (3044,35,-2621)
@@ -114,8 +104,18 @@
         Petergrad (-4124,-1,958)
         CW (-3993,0,64)
 -,-
-    Proxima (-750,10,-3500) # New western edge of the Mehri's granite line, very preliminary addition, subject to change upon further -,- development, also has a tree junction
-    Icenia (-3772,3,-4322) <#00c9ff>
+    Occident <#024F30>
+        Icenia (-3772,3,-4322)
+        Volterra
+            vmata+ (100000,100000,100000) #Ignore please
+                Uni (-1670,0,-1231)
+                Brewery (-1551,0,-1271)
+                Guild (-1350,0,-1307)
+            vmata- (100000,100000,100000) #Ignore please
+                Vec (-1350,0,-960)
+                Rosslyn (-1157,0,-1212)
+            Shockton (-1646,0,-1159)
+            Warmia (-1405, 0, -2351)
     Karydia <#fcd20e>
         Pacem (-5214,3,-1074)
         Mercutio (-7782,10,-995)
