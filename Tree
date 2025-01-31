@@ -73,29 +73,6 @@
         Amicitia (702,9,3700)
         cdesert (288,9,3179)
 -,+
-    Deluvia 
-        Imperia <#cc000f> (-3426,75,6990) # Imperial Federation - Imperia, Capital District
-        Imperial <#b02e26> # Imperial Rail District, Deluvia - IF Main Line, Eastern Deluvia Coast
-            Aethia (-2943,-63,8042) # Aethia Nether Gate
-            Feline (-2728,70,7921) # Imperial Federation - New Felicity, Feline
-            Godhaven (-2317,54,8476) # Imperial Federation - Godhaven
-            Halland (-2043,76,7876) # Imperial Federation - Halland
-            PrideRock (-2213,60,9200) # Pride Rock
-        Midgard <#5e7c16> # Midgard Rail District, Deluvia - Midgard, former Hyperborea
-            Ostersund (-2431,4,7547) # Imperial Federation - Ostersund
-            Esberg (-1952,66,7053) # Imperial Federation - Esberg
-            Vanaheim (-907,42,7536) # Imperial Federation - Vanaheim, Midgard
-        Midlands <#169c9c> # Midlands Rail District, Deluvia - Continental Interior
-            Nalora (-3591,68,7605) # Imperial Federation - Nalora
-            Regentsburgh (-3514,85,8839) # Imperial Federation - Regentsburgh
-            Surmadri (-4824,36,7292) # Imperial Federation - Surmadri
-            Vallstena (-4922,4,8412) # Imperial Federation - Vallstena, Gotland
-            Vermont (-6349,63,7443) # Imperial Federation - Burlington, Vermont
-        Southsea <#3ab3da> # Southsea Rail District, Deluvia - Southern Sea Islands
-            AnorLondoX (-2459,65,6286) # Imperial Federation - Anor Londo X
-            Freeport (-3389,44,4378) # Pride Isles - Simensen Freeport
-            Grenada (-5299,69,4681) # Imperial Federation - Accompong Town, Grenada
-            Venozia (-1418,4,5794) # Venne - Venozia - Station Incomplete, Elevator Access
     Founders <#ffa500>
         Mali (-863,9,2932)
         Waabi (-1025,9,2599)
@@ -103,6 +80,38 @@
         Melonwood (-3590,9,1990)
         Petergrad (-4124,-1,958)
         CW (-3993,0,64)
+    Deluvia 
+       Imperial <#b02e26>
+            Aethia (-2943,-63,8042)
+            Feline (-2728,70,7921) 
+            Godhaven (-2317,54,8476) 
+            Halland (-2043,76,7876) 
+            PrideRock (-2213,60,9200) 
+            NewCallisto
+            Meriecta
+            Soderrike
+            Nalora (-3591,68,7605)
+            Regensburg (-3514,85,8839) 
+        Hyperborea <#5e7c16> 
+            Ostersund (-2431,4,7547) 
+            Esberg (-1952,66,7053) 
+            Vanaheim (-907,42,7536) 
+        Bay <#169c9c> 
+            OldSurmadri (-4824,36,7292) 
+            Vallstena (-4922,4,8412) 
+            Vermont (-6349,63,7443)
+            Groveheart 
+            Withervale 
+            Haven 
+            Thule
+            Voldi
+            Vermont
+            Brunsvik
+        Southsea <#3ab3da> 
+            AnorLondoX (-2459,65,6286) 
+            Freeport (-3389,44,4378) 
+            Grenada (-5299,69,4681) 
+            Venozia (-1418,4,5794) 
 -,-
     Occident <#024F30>
         Icenia (-3772,3,-4322)
