@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1738415696
+        "last_update": 1738417284
     },
     "features": [
         {
@@ -1088,6 +1088,18 @@
             "color": "#3ab3da",
             "y": 4,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/venozia.png"
+        },
+        {
+            "name": "Micronook",
+            "x": -3779,
+            "z": -2247,
+            "dest": "/dest ! -,- occident micronook",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/micronook",
+            "color": "#024F30",
+            "y": 70,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/micronook.png"
         },
         {
             "name": "Icenia",
