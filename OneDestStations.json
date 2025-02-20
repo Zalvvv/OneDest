@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1738417284
+        "last_update": 1740010657
     },
     "features": [
         {
@@ -1088,6 +1088,18 @@
             "color": "#3ab3da",
             "y": 4,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/venozia.png"
+        },
+        {
+            "name": "Winterbourne",
+            "x": -72,
+            "z": -7585,
+            "dest": "/dest ! -,- northlandia winterbourne",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/winterbourne",
+            "color": "#8B0000",
+            "y": 66,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/winterbourne.png"
         },
         {
             "name": "Micronook",
