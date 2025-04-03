@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1740010657
+        "last_update": 1743658436
     },
     "features": [
         {
@@ -112,18 +112,6 @@
             "color": "#d9b5ff",
             "y": 65,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cordoba.png"
-        },
-        {
-            "name": "Harvestportal",
-            "x": 6568,
-            "z": -4407,
-            "dest": "/dest ! +,- impendia cordoba harvestportal",
-            "level": 4,
-            "zoom": 4,
-            "id": "civmap:onedest/station/harvestportal",
-            "color": "#d9b5ff",
-            "y": 62,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/harvestportal.png"
         },
         {
             "name": "Deepslate",
@@ -419,11 +407,11 @@
             "name": "CivMarket",
             "x": 2400,
             "z": -114,
-            "dest": "/dest ! +,- civmarket",
-            "level": 2,
-            "zoom": 2,
+            "dest": "/dest ! +,- lyrean civmarket",
+            "level": 3,
+            "zoom": 3,
             "id": "civmap:onedest/station/civmarket",
-            "color": "#d9b5ff",
+            "color": "#0eaf9b",
             "y": 15,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/civmarket.png"
         },
@@ -431,25 +419,37 @@
             "name": "Margaritaville",
             "x": 3303,
             "z": -623,
-            "dest": "/dest ! +,- margaritaville",
-            "level": 2,
-            "zoom": 2,
+            "dest": "/dest ! +,- lyrean margaritaville",
+            "level": 3,
+            "zoom": 3,
             "id": "civmap:onedest/station/margaritaville",
-            "color": "#d9b5ff",
+            "color": "#0eaf9b",
             "y": 45,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/margaritaville.png"
         },
         {
-            "name": "MtA",
-            "x": 3052,
-            "z": 2211,
-            "dest": "/dest ! +,+ mta",
-            "level": 2,
-            "zoom": 2,
-            "id": "civmap:onedest/station/mta",
+            "name": "Khalkedonia",
+            "x": 7869,
+            "z": -4435,
+            "dest": "/dest ! +,- aegis khalkedonia",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/khalkedonia",
             "color": "#d9b5ff",
-            "y": 15,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/mta.png"
+            "y": 70,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/khalkedonia.png"
+        },
+        {
+            "name": "PunkPortal",
+            "x": 6568,
+            "z": -4407,
+            "dest": "/dest ! +,- aegis punkportal",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/punkportal",
+            "color": "#d9b5ff",
+            "y": 62,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/punkportal.png"
         },
         {
             "name": "Qbarra",
@@ -597,12 +597,24 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/gensokyo.png"
         },
         {
+            "name": "Kallos",
+            "x": 8318,
+            "z": 4580,
+            "dest": "/dest ! +,+ medi kallos",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/kallos",
+            "color": "#e83b3b",
+            "y": 10,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/kallos.png"
+        },
+        {
             "name": "Lusitania",
             "x": 7964,
             "z": 3960,
-            "dest": "/dest ! +,+ medi lusitania",
-            "level": 3,
-            "zoom": 3,
+            "dest": "/dest ! +,+ medi kallos lusitania",
+            "level": 4,
+            "zoom": 4,
             "id": "civmap:onedest/station/lusitania",
             "color": "#e83b3b",
             "y": -49,
@@ -619,6 +631,68 @@
             "color": "#e83b3b",
             "y": 62,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/truidencia.png"
+        },
+        {
+            "name": "Eldoria",
+            "x": 6000,
+            "z": 6580,
+            "dest": "/dest ! +,+ medi eldoria",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/eldoria",
+            "color": "#e83b3b",
+            "y": 10,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/eldoria.png"
+        },
+        {
+            "name": "NotDoneYet",
+            "x": 6560,
+            "z": 2890,
+            "dest": "/dest ! +,+ medi notdoneyet",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/notdoneyet",
+            "color": "#e83b3b",
+            "y": 10,
+            "note": "Iaumea",
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/notdoneyet.png"
+        },
+        {
+            "name": "Rivia",
+            "x": 6650,
+            "z": 1869,
+            "dest": "/dest ! +,+ medi rivia",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/rivia",
+            "color": "#e83b3b",
+            "y": 10,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/rivia.png"
+        },
+        {
+            "name": "Accra",
+            "x": 4857,
+            "z": 620,
+            "dest": "/dest ! +,+ medi accra",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/accra",
+            "color": "#e83b3b",
+            "y": 10,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/accra.png"
+        },
+        {
+            "name": "MtA",
+            "x": 3052,
+            "z": 2211,
+            "dest": "/dest ! +,+ arctic mta",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/mta",
+            "color": "#8fd3ff",
+            "y": 15,
+            "note": "moved to Arctic tag",
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/mta.png"
         },
         {
             "name": "Shiroyama",
