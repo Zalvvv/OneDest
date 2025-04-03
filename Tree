@@ -9,7 +9,6 @@
             ChristmasIsland (5978,66,-6315)
             Farmingrad (6191,69,-6168) 
         Cordoba (5050,65,-5444)
-            Harvestportal (6568,62,-4407)
     Moloka <#534582>
         Deepslate (1215,-60,-5110)
             Fox.Island (1330,-62,-5649)
@@ -37,10 +36,12 @@
             CVJ (3525, 76, -1355)
         Pavia (1017,82,-3014)
             Sandtopia (790,15,-2389)
-    CivMarket (2400,15,-114)
-    Margaritaville (3303,45,-623)
+        CivMarket (2400,15,-114)
+        Margaritaville (3303,45,-623)
+    Aegis
+        Khalkedonia (7869,70,-4435)
+        PunkPortal (6568,62,-4407)
 +,+
-    MtA (3052,15,2211)
     Medi <#e83b3b>
         Qbarra (7050,-58,715) #moved to medi tag
         CDM (5094,73,3138)
@@ -54,9 +55,15 @@
             Phoenix (5350,55,4530)
         Transylvania (5344,15,5627)
         Gensokyo (4779,47,6638)
-        Lusitania (7964,-49,3960)
+        Kallos (8318,10,4580)
+            Lusitania (7964,-49,3960)
         Truidencia (6610,62,6389)
+        Eldoria (6000,10,6580)
+        NotDoneYet (6560,10,2890) #Iaumea
+        Rivia (6650,10,1869)
+        Accra (4857,10,620)
     Arctic <#8fd3ff>
+        MtA (3052,15,2211)  #moved to Arctic tag
         Nara #moved stop to shiroyama
             Shiroyama (3366,9,5046)
             Orakuru (3700,14,6971)
