@@ -91,36 +91,42 @@
         Petergrad (-4124,-1,958)
         CW (-3993,0,64)
     Deluvia 
-       Imperial <#b02e26>
+        Imperial <#b02e26>
             Aethia (-2943,-63,8042)
             Feline (-2728,70,7921) 
-            Godhaven (-2317,54,8476) 
-            Halland (-2043,76,7876) 
+            Godhaven (-2317,54,8476)
             PrideRock (-2213,60,9200) 
-            NewCallisto
-            Meriecta
-            Soderrike
+            NewCallisto (-3306,0,8034) #Coordinates not accurate
+            Soderrike (-2741,0,9475) #Coordinates not accurate
             Nalora (-3591,68,7605)
-            Regensburg (-3514,85,8839) 
-        Hyperborea <#5e7c16> 
+            Regensburg (-3514,85,8839)
+        East<#5e7c16> 
             Ostersund (-2431,4,7547) 
             Esberg (-1952,66,7053) 
-            Vanaheim (-907,42,7536) 
+            Halland (-2043,76,7876) 
+            Venozia (-1418,4,5794)
+            Maugate (-2203,0,6367) #Coordinates not accurate
+            Kamakura (-752,0,6700) #Coordinates not accurate
+            alx (-2459,65,6286)
+	        Cyania (-1365,0,7826)
+	        Avalon
         Bay <#169c9c> 
             OldSurmadri (-4824,36,7292) 
             Vallstena (-4922,4,8412) 
             Vermont (-6349,63,7443)
-            Groveheart 
-            Withervale 
-            Haven 
-            Thule
-            Voldi
-            Brunsvik
+            Groveheart (-6787,0,5579) #Coordinates not accurate
+            Withervale (-6665,0,6748) #Coordinates not accurate
+            newHaven 
+            Thule (-5365,0,5985) #Coordinates not accurate
+            Voldi (-5723,0,7874) #Coordinates not accurate
+            Vermont (-6349,0,7443)
+            Brunsvik (-7531,0,4728) #Coordinates not accurate
         Southsea <#3ab3da> 
-            AnorLondoX (-2459,65,6286) 
             Freeport (-3389,44,4378) 
-            Grenada (-5299,69,4681) 
-            Venozia (-1418,4,5794) 
+            Grenada (-5299,69,4681)
+            Hki (-2080,0,4705) #Coordinates not accurate
+            Privalia
+            Myra
 -,-
     Northlandia <#8B0000>
         Winterbourne (-72,66,-7585)
