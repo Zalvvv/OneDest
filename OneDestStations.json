@@ -2,33 +2,9 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1746132512
+        "last_update": 1748640714
     },
     "features": [
-        {
-            "name": "Cascadia",
-            "x": 4061,
-            "z": -5315,
-            "dest": "/dest ! +,- impendia cascadia",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/cascadia",
-            "color": "#d9b5ff",
-            "y": 7,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cascadia.png"
-        },
-        {
-            "name": "NewJersey",
-            "x": 3561,
-            "z": -4838,
-            "dest": "/dest ! +,- impendia newjersey",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/newjersey",
-            "color": "#d9b5ff",
-            "y": 2,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/newjersey.png"
-        },
         {
             "name": "SPQR",
             "x": 3022,
@@ -40,18 +16,6 @@
             "color": "#d9b5ff",
             "y": 11,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/spqr.png"
-        },
-        {
-            "name": "CityOfEngland",
-            "x": 3772,
-            "z": -5940,
-            "dest": "/dest ! +,- impendia cityofengland",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/cityofengland",
-            "color": "#d9b5ff",
-            "y": 76,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cityofengland.png"
         },
         {
             "name": "Yngland",
@@ -100,18 +64,6 @@
             "color": "#d9b5ff",
             "y": 69,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/farmingrad.png"
-        },
-        {
-            "name": "Cordoba",
-            "x": 5050,
-            "z": -5444,
-            "dest": "/dest ! +,- impendia cordoba",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/cordoba",
-            "color": "#d9b5ff",
-            "y": 65,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cordoba.png"
         },
         {
             "name": "Deepslate",
@@ -404,18 +356,6 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/sandtopia.png"
         },
         {
-            "name": "CivMarket",
-            "x": 2400,
-            "z": -114,
-            "dest": "/dest ! +,- lyrean civmarket",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/civmarket",
-            "color": "#0eaf9b",
-            "y": 15,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/civmarket.png"
-        },
-        {
             "name": "Margaritaville",
             "x": 3303,
             "z": -623,
@@ -463,30 +403,6 @@
             "y": -58,
             "note": "moved to medi tag",
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/qbarra.png"
-        },
-        {
-            "name": "CDM",
-            "x": 5094,
-            "z": 3138,
-            "dest": "/dest ! +,+ medi cdm",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/cdm",
-            "color": "#e83b3b",
-            "y": 73,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cdm.png"
-        },
-        {
-            "name": "MehriCDMPortal",
-            "x": 4817,
-            "z": 2668,
-            "dest": "/dest ! +,+ medi cdm mehricdmportal",
-            "level": 4,
-            "zoom": 4,
-            "id": "civmap:onedest/station/mehricdmportal",
-            "color": "#e83b3b",
-            "y": 64,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/mehricdmportal.png"
         },
         {
             "name": "Danzilona",
@@ -583,18 +499,6 @@
             "color": "#e83b3b",
             "y": 15,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/transylvania.png"
-        },
-        {
-            "name": "Gensokyo",
-            "x": 4779,
-            "z": 6638,
-            "dest": "/dest ! +,+ medi gensokyo",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/gensokyo",
-            "color": "#e83b3b",
-            "y": 47,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/gensokyo.png"
         },
         {
             "name": "Kallos",
@@ -732,18 +636,6 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/ichino.png"
         },
         {
-            "name": "Meracydia",
-            "x": 5370,
-            "z": 7687,
-            "dest": "/dest ! +,+ arctic meracydia",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/meracydia",
-            "color": "#8fd3ff",
-            "y": 15,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/meracydia.png"
-        },
-        {
             "name": "Snowpeak",
             "x": 5369,
             "z": 8071,
@@ -754,18 +646,6 @@
             "color": "#8fd3ff",
             "y": 65,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/snowpeak.png"
-        },
-        {
-            "name": "Chronosia",
-            "x": 2681,
-            "z": 9076,
-            "dest": "/dest ! +,+ arctic chronosia",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/chronosia",
-            "color": "#8fd3ff",
-            "y": 112,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/chronosia.png"
         },
         {
             "name": "NSwisston",
@@ -828,18 +708,6 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/arsenia.png"
         },
         {
-            "name": "Elysium",
-            "x": 2349,
-            "z": 4060,
-            "dest": "/dest ! +,+ ap elysium",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/elysium",
-            "color": "#32CD32",
-            "y": 71,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/elysium.png"
-        },
-        {
             "name": "Aldenfult",
             "x": 2291,
             "z": 5037,
@@ -852,18 +720,6 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/aldenfult.png"
         },
         {
-            "name": "cfarms",
-            "x": 2149,
-            "z": 3946,
-            "dest": "/dest ! +,+ ap cfarms",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/cfarms",
-            "color": "#32CD32",
-            "y": 9,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cfarms.png"
-        },
-        {
             "name": "Amicitia",
             "x": 702,
             "z": 3700,
@@ -874,54 +730,6 @@
             "color": "#32CD32",
             "y": 9,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/amicitia.png"
-        },
-        {
-            "name": "cdesert",
-            "x": 288,
-            "z": 3179,
-            "dest": "/dest ! +,+ ap cdesert",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/cdesert",
-            "color": "#32CD32",
-            "y": 9,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cdesert.png"
-        },
-        {
-            "name": "Mali",
-            "x": -863,
-            "z": 2932,
-            "dest": "/dest ! -,+ founders mali",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/mali",
-            "color": "#ffa500",
-            "y": 9,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/mali.png"
-        },
-        {
-            "name": "Waabi",
-            "x": -1025,
-            "z": 2599,
-            "dest": "/dest ! -,+ founders waabi",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/waabi",
-            "color": "#ffa500",
-            "y": 9,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/waabi.png"
-        },
-        {
-            "name": "Caliphate",
-            "x": -1439,
-            "z": 1984,
-            "dest": "/dest ! -,+ founders caliphate",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/caliphate",
-            "color": "#ffa500",
-            "y": 9,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/caliphate.png"
         },
         {
             "name": "Melonwood",
@@ -1486,18 +1294,6 @@
             "color": "#fcd20e",
             "y": 0,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/kaowta.png"
-        },
-        {
-            "name": "Acre",
-            "x": -7887,
-            "z": -50,
-            "dest": "/dest ! -,- karydia acre",
-            "level": 3,
-            "zoom": 3,
-            "id": "civmap:onedest/station/acre",
-            "color": "#fcd20e",
-            "y": 0,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/acre.png"
         },
         {
             "name": "Tortugan",
