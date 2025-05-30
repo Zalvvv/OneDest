@@ -1,0 +1,172 @@
+//Originally by Xenos for the IF, adapted to OneDest with favorite button by OneDest
+//team. Contact Zalvvv if you find any issues.
+//Find more CivMC public bots at XenosCivMC/jsMacroBots
+
+
+const favoritesFilePath = "jsmacros/favorites.json";
+const File = Java.type("java.io.File");
+const Files = Java.type("java.nio.file.Files");
+const Paths = Java.type("java.nio.file.Paths");
+const StandardCharsets = Java.type("java.nio.charset.StandardCharsets");
+
+// === Load favorites from file ===
+let favorites = [];
+try {
+  const path = Paths.get(favoritesFilePath);
+  if (Files.exists(path)) {
+    let content = Files.readAllBytes(path);
+    favorites = JSON.parse(new java.lang.String(content, StandardCharsets.UTF_8));
+  }
+} catch (e) {
+  Chat.log("Could not load favorites.json: " + e);
+}
+
+// === Save favorites to file ===
+function saveFavorites() {
+  try {
+    const path = Paths.get(favoritesFilePath);
+    const parentDir = path.getParent();
+    if (!Files.exists(parentDir)) {
+      Files.createDirectories(parentDir);
+    }
+
+    const content = JSON.stringify(favorites, null, 2);
+    const writer = new java.io.OutputStreamWriter(
+      new java.io.FileOutputStream(favoritesFilePath),
+      "UTF-8"
+    );
+    writer.write(content);
+    writer.close();
+  } catch (e) {
+    Chat.log("Could not save favorites.json: " + e);
+  }
+}
+
+
+const buttonWidth = 140;
+const buttonHeight = 15;
+const favButtonWidth = 20;
+const buttonSpaceX = 3;
+const buttonSpaceY = 1;
+const buttonOffsetY = 30;
+const buttonMaxLines = 12;
+
+/**********************************************************************/
+let data = Request.get("https://raw.githubusercontent.com/Zalvvv/OneDest/main/OneDestStations.json").text();
+data = JSON.parse(data); 
+
+function renderFavorites() {
+  for (let i = 0; i < favoriteButtons.length; i++) {
+    Hud.getOpenScreen().removeElement(favoriteButtons[i]);
+  }
+  favoriteButtons = [];
+
+  Hud.getOpenScreen().addText("Favorites:", 500, 20, 0xffffff, true);
+  let favoriteDests = data.features.filter(station => favorites.includes(station.name));
+  for (let i = 0; i < favoriteDests.length; i++) {
+    let dest = favoriteDests[i];
+    let btn = Hud.getOpenScreen().addButton(
+      500,
+      buttonOffsetY + buttonSpaceY + buttonSpaceY * i + buttonHeight * i,
+      buttonWidth,
+      buttonHeight,
+      dest.name,
+      JavaWrapper.methodToJava(() => {
+        Chat.say(dest.dest);
+        Hud.getOpenScreen().close();
+      })
+    );
+    favoriteButtons.push(btn);
+  }
+}
+
+function createButtons(stations) {
+  let btns = [];
+  for (let i = 0; i < stations.length; i++) {
+    let dest = stations[i];
+
+    let yPos = buttonOffsetY + buttonSpaceY + buttonSpaceY * (i % buttonMaxLines) + buttonHeight * (i % buttonMaxLines);
+    let xOffset = buttonSpaceX + (buttonWidth + favButtonWidth + buttonSpaceX * 3) * parseInt(i / buttonMaxLines);
+
+    // Main teleport button
+    let mainBtn = Hud.getOpenScreen().addButton(
+      xOffset,
+      yPos,
+      buttonWidth,
+      buttonHeight,
+      dest.name,
+      JavaWrapper.methodToJava(() => {
+        Chat.say(dest.dest);
+        Hud.getOpenScreen().close();
+      })
+    );
+    btns.push(mainBtn);
+
+    // Star button
+    let isFavorite = favorites.includes(dest.name);
+    let starBtn = Hud.getOpenScreen().addButton(
+      xOffset + buttonWidth + 5,
+      yPos,
+      favButtonWidth,
+      buttonHeight,
+      isFavorite ? "★" : "☆",
+      JavaWrapper.methodToJava(() => {
+        if (favorites.includes(dest.name)) {
+          favorites = favorites.filter(name => name !== dest.name);
+        } else {
+          favorites.push(dest.name);
+        }
+        saveFavorites(); // Save change immediately
+        starBtn.setLabel(favorites.includes(dest.name) ? "★" : "☆");
+        renderFavorites(); // Update top-right
+      })
+    );
+    btns.push(starBtn);
+  }
+
+  return btns;
+}
+
+// Launch directly when toggled instead of when opening the chat
+Chat.open('');
+Client.waitTick(); // Let the GUI render
+Chat.log("Search a destination using the bar, Press the star to add it to favorites.To remove one, press the star again.");
+
+
+let btns = [];
+let favoriteButtons = [];
+
+renderFavorites();
+
+// Search bar
+Hud.getOpenScreen().addTextInput(
+  buttonSpaceX,
+  buttonSpaceY,
+  buttonWidth,
+  buttonHeight,
+  "search...",
+  JavaWrapper.methodToJava((search) => {
+    for (let i = 0; i < btns.length; i++) {
+      Hud.getOpenScreen().removeElement(btns[i]);
+    }
+    btns = [];
+    if (search) {
+      let foundStations = data.features.filter(station =>
+        station.name.toLowerCase().includes(search.toLowerCase())
+      );
+      btns = createButtons(foundStations);
+    }
+  })
+);
+
+// Exit button
+Hud.getOpenScreen().addButton(
+  500,
+  5,
+  40,
+  15,
+  "Exit",
+  JavaWrapper.methodToJava(() => {
+    Hud.getOpenScreen().close();
+  })
+);
