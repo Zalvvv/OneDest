@@ -1,6 +1,7 @@
 //Originally by Xenos for the IF, adapted to OneDest with favorite button by OneDest
 //team. Contact Zalvvv if you find any issues.
-//Find more CivMC public bots at XenosCivMC/jsMacroBots
+//Find more CivMC public bots by Xenos here: https://github.com/XenosCivMC/jsMacroBots
+//And by Arthirob here: https://github.com/arthirob/CivMCMacro
 
 
 const favoritesFilePath = "jsmacros/favorites.json";
