@@ -1,14 +1,10 @@
 +,-
     Impendia <#d9b5ff>
-        Cascadia (4061,7,-5315)
-        NewJersey (3561,2,-4838)
         SPQR (3022,11,-5558)
-        CityOfEngland (3772,76,-5940)
         Yngland (5432,79,-7127)
         Fempire (5865,7,-6531)
             ChristmasIsland (5978,66,-6315)
-            Farmingrad (6191,69,-6168) 
-        Cordoba (5050,65,-5444)
+            Farmingrad (6191,69,-6168)
     Moloka <#534582>
         Deepslate (1215,-60,-5110)
             Fox.Island (1330,-62,-5649)
@@ -36,7 +32,6 @@
             CVJ (3525, 76, -1355)
         Pavia (1017,82,-3014)
             Sandtopia (790,15,-2389)
-        CivMarket (2400,15,-114)
         Margaritaville (3303,45,-623)
     Aegis
         Khalkedonia (7869,70,-4435)
@@ -44,8 +39,6 @@
 +,+
     Medi <#e83b3b>
         Qbarra (7050,-58,715) #moved to medi tag
-        CDM (5094,73,3138)
-            MehriCDMPortal (4817,64,2668)
         Danzilona (5275,66,4459)
             Sophia (4784,18,4527)
             Rosemont (5130,55,4375)
@@ -54,7 +47,6 @@
             SStation (5268,35,4790)
             Phoenix (5350,55,4530)
         Transylvania (5344,15,5627)
-        Gensokyo (4779,47,6638)
         Kallos (8318,10,4580)
             Lusitania (7964,-49,3960)
         Truidencia (6610,62,6389)
@@ -68,25 +60,17 @@
             Shiroyama (3366,9,5046)
             Orakuru (3700,14,6971)
             Ichino (3789,15,5424) #now under the nara tag
-        Meracydia (5370,15,7687)
         Snowpeak (5369,65,8071)
-        Chronosia (2681,112,9076)
         NSwisston (1906,84,8776)
             Arena (2006, 73, 8902)
             Hotel (1800, 85, 8815)
         Venne (735,65,8900)
     AP <#32CD32>
         Arsenia (2861,15,4532)
-        Elysium (2349,71,4060)
         Aldenfult (2291,9,5037)
-        cfarms (2149,9,3946)
         Amicitia (702,9,3700)
-        cdesert (288,9,3179)
 -,+
     Founders <#ffa500>
-        Mali (-863,9,2932)
-        Waabi (-1025,9,2599)
-        Caliphate (-1439,9,1984)
         Melonwood (-3590,9,1990)
         Petergrad (-4124,-1,958)
         CW (-3993,0,64)
@@ -147,7 +131,6 @@
         Mercutio (-7782,10,-995)
         Icarus (-9133,0,-347)
         Kaowta (-8176,0,-120)
-        Acre (-7887,0,-50)
         Tortugan (-7065,0,47)
         Arlington (-6878,0,620)
         Reggio (-6418,0,1688)
