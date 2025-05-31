@@ -10,15 +10,15 @@
             Farmingrad (6191,69,-6168) 
         Cordoba (5050,65,-5444,4)
     Moloka <#534582>
-        Deepslate (1215,-60,-5110)
+        Deepslate (1215,-60,-5110,4)
             Fox.Island (1330,-62,-5649)
-        Detroit (1630,-62,-6086)
-        Escobar (-66,-63,-1986)
-        Stonegate (984,-62,-4390)
+        Detroit (1630,-62,-6086,4)
+        Escobar (-66,-63,-1986,4)
+        Stonegate (984,-62,-4390,4)
         Baile (2405,62,-9272) #Deepslate line
     Lyrean <#0eaf9b>
-        NewMta (4712,-39,-2855) #Mta line
-        Exyria (4511,79,-1846)
+        NewMta (4712,-39,-2855,2) #Mta line
+        Exyria (4511,79,-1846,2)
         Mehri (2645,59,-2205)
             Develhof (3044,35,-2621)
             Gutch (2563,35,-1978)
@@ -34,15 +34,15 @@
             Pioneer (3884,76,-1321)
             Cape_Cocoa (4133,76,-2479)
             CVJ (3525, 76, -1355)
-        Pavia (1017,82,-3014)
+        Pavia (1017,82,-3014,1)
             Sandtopia (790,15,-2389)
         Margaritaville (3303,45,-623)
     Aegis
-        Khalkedonia (7869,70,-4435)
-        PunkPortal (6568,62,-4407)
+        Khalkedonia (7869,70,-4435,2)
+        PunkPortal (6568,62,-4407,4)
 +,+
     Medi <#e83b3b>
-        Qbarra (7050,-58,715) #moved to medi tag
+        Qbarra (7050,-58,715,2) #moved to medi tag
         Danzilona (5275,66,4459)
             Sophia (4784,18,4527)
             Rosemont (5130,55,4375)
@@ -51,19 +51,19 @@
             SStation (5268,35,4790)
             Phoenix (5350,55,4530)
         Transylvania (5344,15,5627)
-        Kallos (8318,10,4580)
+        Kallos (8318,10,4580,2)
             Lusitania (7964,-49,3960)
-        Truidencia (6610,62,6389)
-        Eldoria (6000,10,6580)
-        NotDoneYet (6560,10,2890) #Iaumea
+        Truidencia (6610,62,6389,1)
+        Eldoria (6000,10,6580,4)
+        NotDoneYet (6560,10,2890.4) #Iaumea
         Rivia (6650,10,1869)
-        Accra (4857,10,620)
+        Accra (4857,10,620,4)
     Arctic <#8fd3ff>
         MtA (3052,15,2211)  #moved to Arctic tag
         Nara #moved stop to shiroyama
-            Shiroyama (3366,9,5046)
-            Orakuru (3700,14,6971)
-            Ichino (3789,15,5424) #now under the nara tag
+            Shiroyama (3366,9,5046,1)
+            Orakuru (3700,14,6971,4)
+            Ichino (3789,15,5424,4) #now under the nara tag
         Snowpeak (5369,65,8071)
         NSwisston (1906,84,8776)
             Arena (2006, 73, 8902)
@@ -71,56 +71,56 @@
         Venne (735,65,8900)
 	Papal (2700, 102, 9165)
     AP <#32CD32>
-        Arsenia (2861,15,4532)
-        Aldenfult (2291,9,5037)
+        Arsenia (2861,15,4532,4)
+        Aldenfult (2291,9,5037,4)
         Amicitia (702,9,3700)
 -,+
     Founders <#ffa500>
-        Melonwood (-3590,9,1990)
+        Melonwood (-3590,9,1990,4)
         Petergrad (-4124,-1,958)
         CW (-3993,0,64)
     Deluvia 
         Imperial <#b02e26>
-            Aethia (-2943,-63,8042)
-            Feline (-2728,70,7921) 
-            Godhaven (-2317,54,8476)
-            PrideRock (-2213,60,9200) 
-            NewCallisto (-3306,0,8034) #Coordinates not accurate
-            Soderrike (-2741,0,9475) #Coordinates not accurate
-            Nalora (-3591,68,7605)
-            Regensburg (-3514,85,8839)
+            Aethia (-2943,-63,8042,4)
+            Feline (-2728,70,7921,4) 
+            Godhaven (-2317,54,8476,4)
+            PrideRock (-2213,60,9200,4) 
+            NewCallisto (-3306,0,8034,1) #Coordinates not accurate
+            Soderrike (-2741,0,9475,4) #Coordinates not accurate
+            Nalora (-3591,68,7605,4)
+            Regensburg (-3514,85,8839,4)
         East <#5e7c16> 
-            Ostersund (-2431,4,7547) 
-            Esberg (-1952,66,7053) 
-            Halland (-2043,76,7876) 
+            Ostersund (-2431,4,7547,4) 
+            Esberg (-1952,66,7053,4) 
+            Halland (-2043,76,7876,4) 
             Venozia (-1418,4,5794)
-            Maugate (-2203,0,6367) #Coordinates not accurate
-            Kamakura (-752,0,6700) #Coordinates not accurate
-            alx (-2459,65,6286)
+            Maugate (-2203,0,6367,4) #Coordinates not accurate
+            Kamakura (-752,0,6700,4) #Coordinates not accurate
+            alx (-2459,65,6286,4)
 	        Cyania (-1365,0,7826)
 	        Avalon
         Bay <#169c9c> 
-            OldSurmadri (-4824,36,7292) 
-            Vallstena (-4922,4,8412) 
-            Vermont (-6349,63,7443)
+            OldSurmadri (-4824,36,7292,4) 
+            Vallstena (-4922,4,8412,4) 
+            Vermont (-6349,63,7443,4)
             Groveheart (-6787,0,5579) #Coordinates not accurate
             Withervale (-6665,0,6748) #Coordinates not accurate
             newHaven 
-            Thule (-5365,0,5985) #Coordinates not accurate
-            Voldi (-5723,0,7874) #Coordinates not accurate
-            Brunsvik (-7531,0,4728) #Coordinates not accurate
+            Thule (-5365,0,5985,4) #Coordinates not accurate
+            Voldi (-5723,0,7874,4) #Coordinates not accurate
+            Brunsvik (-7531,0,4728,1) #Coordinates not accurate
         Southsea <#3ab3da> 
-            Freeport (-3389,44,4378) 
-            Grenada (-5299,69,4681)
-            Hki (-2080,0,4705) #Coordinates not accurate
+            Freeport (-3389,44,4378,4) 
+            Grenada (-5299,69,4681,4)
+            Hki (-2080,0,4705,4) #Coordinates not accurate
             Privalia
             Myra
 -,-
     Northlandia <#8B0000>
-        Winterbourne (-72,66,-7585)
+        Winterbourne (-72,66,-7585,2)
     Occident <#024F30>
-        Micronook (-3779,70,-2247)
-        Icenia (-3772,3,-4322)
+        Micronook (-3779,70,-2247,4)
+        Icenia (-3772,3,-4322,1)
         Volterra
             vmata+ (100000,100000,100000) #Ignore please
                 Uni (-1670,0,-1231)
@@ -129,14 +129,14 @@
             vmata- (100000,100000,100000) #Ignore please
                 Vec (-1350,0,-960)
                 Rosslyn (-1157,0,-1212)
-            Shockton (-1646,0,-1159)
+            Shockton (-1646,0,-1159,1)
             Warmia (-1405, 0, -2351)
     Karydia <#fcd20e>
-        Pacem (-5214,3,-1074)
-        Mercutio (-7782,10,-995)
-        Icarus (-9133,0,-347)
-        Kaowta (-8176,0,-120)
-        Tortugan (-7065,0,47)
-        Arlington (-6878,0,620)
+        Pacem (-5214,3,-1074,2)
+        Mercutio (-7782,10,-995,2)
+        Icarus (-9133,0,-347,2)
+        Kaowta (-8176,0,-120,4)
+        Tortugan (-7065,0,47,4)
+        Arlington (-6878,0,620,2)
         Reggio (-6418,0,1688)
-        Carolina (-5861,0,1358)
+        Carolina (-5861,0,1358,4)
