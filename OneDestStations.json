@@ -2,7 +2,7 @@
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1748884881
+        "last_update": 1748895181
     },
     "features": [
         {
@@ -756,12 +756,24 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/venne.png"
         },
         {
+            "name": "anisso",
+            "x": 100000,
+            "z": 100000,
+            "dest": "/dest ! +,+ arctic anisso",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/anisso",
+            "color": "#8fd3ff",
+            "y": 100000,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/anisso.png"
+        },
+        {
             "name": "rozzano",
             "x": 1575,
             "z": 9318,
             "dest": "/dest ! +,+ arctic anisso rozzano",
             "level": 4,
-            "zoom": 3,
+            "zoom": 4,
             "id": "civmap:onedest/station/rozzano",
             "color": "#8fd3ff",
             "y": 0,
@@ -773,7 +785,7 @@
             "z": 9683,
             "dest": "/dest ! +,+ arctic anisso lavenzia",
             "level": 4,
-            "zoom": 3,
+            "zoom": 4,
             "id": "civmap:onedest/station/lavenzia",
             "color": "#8fd3ff",
             "y": 0,
@@ -785,7 +797,7 @@
             "z": 9479,
             "dest": "/dest ! +,+ arctic anisso inverastore",
             "level": 4,
-            "zoom": 3,
+            "zoom": 4,
             "id": "civmap:onedest/station/inverastore",
             "color": "#8fd3ff",
             "y": 0,
@@ -797,7 +809,7 @@
             "z": 9300,
             "dest": "/dest ! +,+ arctic anisso montevetta",
             "level": 4,
-            "zoom": 3,
+            "zoom": 4,
             "id": "civmap:onedest/station/montevetta",
             "color": "#8fd3ff",
             "y": 0,
@@ -809,7 +821,7 @@
             "z": 9456,
             "dest": "/dest ! +,+ arctic anisso ardroch",
             "level": 4,
-            "zoom": 3,
+            "zoom": 4,
             "id": "civmap:onedest/station/ardroch",
             "color": "#8fd3ff",
             "y": 0,
@@ -821,7 +833,7 @@
             "z": 9187,
             "dest": "/dest ! +,+ arctic anisso corino",
             "level": 4,
-            "zoom": 3,
+            "zoom": 4,
             "id": "civmap:onedest/station/corino",
             "color": "#8fd3ff",
             "y": 0,
@@ -852,6 +864,18 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cigno.png"
         },
         {
+            "name": "Skandic",
+            "x": 100000,
+            "z": 100000,
+            "dest": "/dest ! +,+ arctic skandic",
+            "level": 3,
+            "zoom": 3,
+            "id": "civmap:onedest/station/skandic",
+            "color": "#8fd3ff",
+            "y": 100000,
+            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/skandic.png"
+        },
+        {
             "name": "skandiccity",
             "x": 1273,
             "z": 9588,
@@ -869,7 +893,7 @@
             "z": 9826,
             "dest": "/dest ! +,+ arctic skandic sasso",
             "level": 4,
-            "zoom": 3,
+            "zoom": 4,
             "id": "civmap:onedest/station/sasso",
             "color": "#8fd3ff",
             "y": 0,
