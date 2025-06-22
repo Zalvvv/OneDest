@@ -18,6 +18,7 @@
         Baile (2405,62,-9272) #Deepslate line
     Lyrean <#0eaf9b>
         NewMta (4712,-39,-2855,2) #Mta line
+		Heikki (2319, 0, -790)
         Exyria (4511,79,-1846,2)
         Mehri (2645,59,-2205)
             Develhof (3044,35,-2621)
@@ -71,8 +72,8 @@
             Hotel (1800, 85, 8815)
         Venne (735,65,8900)
 	anisso 
-		rozzano (1575,0,9318)
-		Ardenmara 1499, 0, 9064)
+		Rozzano (1575,0,9318)
+		Ardenmara (1499, 0, 9064)
 		Lavenzia (2016, 0, 9683) 
 		Inverastore (1996, 0, 9479) 
 		MonteVetta (1078, 0, 9300)
@@ -81,8 +82,8 @@
 	Kaiyaukuta (1753, 0, 7150)
 	Cigno (2004, 0, 7466)
 	Skandic
-		skandiccity (1273, 0, 9588)
-		sasso (751, 0, 9826)
+		Skandiccity (1273, 0, 9588)
+		Sasso (751, 0, 9826)
     AP <#32CD32>
         Arsenia (2861,15,4532)
         Aldenfult (2291,9,5037,4)
@@ -125,7 +126,6 @@
         Southsea <#3ab3da> 
             Freeport (-3389,44,4378,4) 
             Grenada (-5299,69,4681,4)
-            Hki (-2080,0,4705,4) #Coordinates not accurate
             Privalia
             Myra
 -,-
@@ -135,13 +135,6 @@
         Micronook (-3779,70,-2247)
         Icenia (-3772,3,-4322,1)
         Volterra
-            vmata+ (100000,100000,100000) #Ignore please
-                Uni (-1670,0,-1231)
-                Brewery (-1551,0,-1271)
-                Guild (-1350,0,-1307)
-            vmata- (100000,100000,100000) #Ignore please
-                Vec (-1350,0,-960)
-                Rosslyn (-1157,0,-1212)
             Shockton (-1646,0,-1159,1)
             Warmia (-1405, 0, -2351)
     Karydia <#fcd20e>
