@@ -18,7 +18,7 @@
         Baile (2405,62,-9272) #Deepslate line
     Lyrean <#0eaf9b>
         NewMta (4712,-39,-2855,2) #Mta line
-		Heikki (2319, 0, -790)
+        Heikki (2319, 0, -790)
         Exyria (4511,79,-1846,2)
         Mehri (2645,59,-2205)
             Develhof (3044,35,-2621)
@@ -71,19 +71,19 @@
             Arena (2006, 73, 8902)
             Hotel (1800, 85, 8815)
         Venne (735,65,8900)
-	    anisso (100000,100000,100000) #ignore please
-		    Rozzano (1575,0,9318)
-    		Ardenmara (1499, 0, 9064)
-	    	Lavenzia (2016, 0, 9683) 
-		    Inverastore (1996, 0, 9479) 
-		    MonteVetta (1078, 0, 9300)
-	    	Ardroch (867, 0, 9456)
-	    	Corino (2314, 0, 9187)
-	    Kaiyaukuta (1753, 0, 7150)
-	    Cigno (2004, 0, 7466)
-	    Skandic
-	    	Skandiccity (1273, 0, 9588)
-	    	Sasso (751, 0, 9826)
+        anisso (100000,100000,100000) #ignore please
+            Rozzano (1575,0,9318)
+            Ardenmara (1499, 0, 9064)
+            Lavenzia (2016, 0, 9683) 
+            Inverastore (1996, 0, 9479) 
+            MonteVetta (1078, 0, 9300)
+            Ardroch (867, 0, 9456)
+            Corino (2314, 0, 9187)
+        Kaiyaukuta (1753, 0, 7150)
+        Cigno (2004, 0, 7466)
+        Skandic
+            Skandiccity (1273, 0, 9588)
+            Sasso (751, 0, 9826)
     AP <#32CD32>
         Arsenia (2861,15,4532)
         Aldenfult (2291,9,5037,4)
@@ -111,8 +111,8 @@
             Maugate (-2203,0,6367,4) #Coordinates not accurate
             Kamakura (-752,0,6700,4) #Coordinates not accurate
             alx (-2459,65,6286,4)
-	        Cyania (-1365,0,7826,4)
-	        Avalon
+            Cyania (-1365,0,7826,4)
+            Avalon
         Bay <#169c9c> 
             OldSurmadri (-4824,36,7292,4) 
             Vallstena (-4922,4,8412,4) 
