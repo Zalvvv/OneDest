@@ -576,7 +576,7 @@
             "name": "Lusitania",
             "x": 7964,
             "z": 3960,
-            "dest": "/dest ! +,+ medi kallos lusitania",
+            "dest": "/dest ! +,+ medi lusitania portucale",
             "level": 4,
             "zoom": 4,
             "id": "civmap:onedest/station/lusitania",
